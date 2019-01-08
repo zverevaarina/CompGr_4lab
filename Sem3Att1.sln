@@ -9,6 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab4", "Lab4", "{A80A66A0-E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4WinForms", "Task4WinForms\Task4WinForms.csproj", "{C8779BE6-88AF-432B-AC78-EB094558306F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{F04CB1F0-4C97-4DED-BBBB-DDAE7986623D}"
+	ProjectSection(SolutionItems) = preProject
+		Models\cube.obj = Models\cube.obj
+		Models\sphere.obj = Models\sphere.obj
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
